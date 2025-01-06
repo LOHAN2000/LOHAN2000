@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anjhelo</h1>
 <h3 align="center">Full Stack Developer with a passion for continuous improvement</h3>
 
-- 🔭 I’m currently working on **a live chat page**
+- 🔭 I’m currently working on **a twitter clone**
 
-- 🌱 I’m currently learning **React and Python because I believe I have yet to discover all their virtues.**
+- 🌱 I’m currently learning **React and Node because I believe I have yet to discover all their virtues.**
 
-- 👯 I’m looking to collaborate on **open source projects and Flask projects**
+- 👯 I’m looking to collaborate on **open source projects and node.js projects**
 
-- 🤝 I’m looking for help with **Express**
+- 🤝 I’m looking for help with **MONGODB**
 
 - 💬 Ask me about **JavaScript, MySQL and React**
 
