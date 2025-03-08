@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on a twitter clone<br><br>🌱 I’m currently learning React and Javascript because I believe I have yet to discover all their virtues.<br><br>👯 I’m looking to collaborate on react projects<br><br>🤝 I’m looking for help with SQL<br><br>💬 Ask me about JavaScript, MongoDB and React<br><br>📫 How to reach me anghelovy00@gmail.com<br><br>⚡ Fun fact I always have to code with music and a video playing in the background.</p>
+<p align="left">🔭 I’m currently working on a Typescript projects<br><br>🌱 I’m currently learning React and Typescript because I believe I have yet to discover all their virtues.<br><br>👯 I’m looking to collaborate on React projects<br><br>🤝 I’m looking for help with SQL<br><br>💬 Ask me about React, MongoDB and Node.js<br><br>📫 How to reach me anghelovy00@gmail.com<br><br>⚡ Fun fact I always have to code with music and a video playing in the background.</p>
 
 ###
 
