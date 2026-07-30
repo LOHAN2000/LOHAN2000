@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="15px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+.key {fill: #DC2626; font-weight: bold;} /* Rojo Neón de tu Portafolio */
+.value {fill: #e5e7eb;} /* Gris claro para lectura */
+.cc {fill: #4b5563;} /* Puntos oscurecidos */
+.ascii {fill: #DC2626; opacity: 0.9;} 
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#0a0a0a" rx="15" stroke="#ffffff" stroke-opacity="0.05" stroke-width="2"/>
+<text x="25" y="45" class="ascii">
+<tspan x="25" y="45">               .xXXx.                   </tspan>
+<tspan x="25" y="65">             .xXXXXXXx.                 </tspan>
+<tspan x="25" y="85">           .xXXXXXXXXXXx.               </tspan>
+<tspan x="25" y="105">         .xXXXXXXXXXXXXXXx.             </tspan>
+<tspan x="25" y="125">       .xXXXXX''''''''XXXXXx.           </tspan>
+<tspan x="25" y="145">     .xXXXXX'          'XXXXXx.         </tspan>
+<tspan x="25" y="165">   .xXXXXX'     .xx.     'XXXXXx.       </tspan>
+<tspan x="25" y="185">  xXXXXX'     .xXXXXx.     'XXXXXx      </tspan>
+<tspan x="25" y="205"> xXXXXX'    .xXXXXXXXXx.    'XXXXXx     </tspan>
+<tspan x="25" y="225">xXXXXX'   .xXXXXXXXXXXXXx.   'XXXXXx    </tspan>
+<tspan x="25" y="245">XXXXX.  .xXXXXX''''''XXXXXx.  .XXXXX    </tspan>
+<tspan x="25" y="265">'XXXXXx.xXXXXX'      'XXXXXx.xXXXXX'    </tspan>
+<tspan x="25" y="285">  'XXXXXXXXX'          'XXXXXXXXX'      </tspan>
+<tspan x="25" y="305">    'XXXXX'              'XXXXX'        </tspan>
+<tspan x="25" y="325">      'X'                  'X'          </tspan>
+<tspan x="25" y="345">                                        </tspan>
+<tspan x="25" y="365">       SYS_INIT: AV_SYSTEM_AI           </tspan>
+<tspan x="25" y="385">       STATUS:   ONLINE                 </tspan>
+<tspan x="25" y="405">       VERSION:  v2.0.26                </tspan>
+<tspan x="25" y="445">       [======================] 100%    </tspan>
+</text>
+<text x="390" y="45" fill="#f3f4f6">
+<tspan x="390" y="45" font-weight="bold" fill="#ffffff">anjhelo@AV_SYSTEM_AI</tspan> -————————————————————————————————————————————-—-
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Full-Stack Developer</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Huancayo, Peru</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">9no Ciclo Ing. Sistemas (Univ. Continental)</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">5+ years</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Languages</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">C#, JavaScript, TypeScript, Java, Python, SQL</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">React, Next.js, Tailwind CSS, Vite, Zustand</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">.NET Core, Node.js, Express.js, RESTful APIs</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Database</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">PostgreSQL, MongoDB, SQL Server, MySQL</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Git, Docker, Postman, Figma, Scrum, Jira</tspan>
+<tspan x="390" y="270" class="cc">. </tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Traits</tspan>.<tspan class="key">Attributes</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Left-handed Developer, Clean Code Advocate</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Traits</tspan>.<tspan class="key">Hobbies</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Guitar (Rock/Metal Hi-Fi), Cinema, Co-op Games</tspan>
+<tspan x="390" y="350">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">anghelovy@outlook.com</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Phone</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">+51 995668705</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Anjhelo Vela</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">AQUI_PON_LA_URL_DE_RENDER</tspan>
+<tspan x="390" y="470">- Current Mission</tspan> -—————————————————————————————————————-—-
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="value">"Designing end-to-end web applications and POS systems </tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="value"> while optimizing enterprise-level data architectures."</tspan>
+</text>
+</svg>
