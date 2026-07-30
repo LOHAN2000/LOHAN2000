@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1F1F1F&height=220&section=header&text=Anjhelo%20Vela&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineering%20Student&descAlignY=58&descSize=18&descColor=B5B5B5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:4A0000,100:B71C1C&height=220&section=header&text=Anjhelo%20Vela&fontSize=52&fontColor=FF1E1E&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineering%20Student&descAlignY=58&descSize=18&descColor=D9D9D9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=E5E5E5&center=true&vCenter=true&width=650&lines=Construyendo+arquitecturas+escalables;React+%2B+Next.js+%2B+.NET+Core;Clean+Code+%7C+SOLID+%7C+Full-Stack;Siempre+con+m%C3%BAsica+de+fondo+%F0%9F%8E%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=FF1E1E&center=true&vCenter=true&width=650&lines=Construyendo+arquitecturas+escalables;React+%2B+Next.js+%2B+.NET+Core;Clean+Code+%7C+SOLID+%7C+Full-Stack;Siempre+con+m%C3%BAsica+de+fondo+%F0%9F%8E%B8" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=LOHAN2000&label=Visitas%20al%20perfil&color=1F1F1F&style=flat" alt="profile views"/>
 
 </div>
 
@@ -20,19 +16,19 @@
 <tr>
 <td width="60%" valign="top">
 
-Soy **Full-Stack Developer** y estudiante de **Ingeniería de Sistemas** en Huancayo, Perú 🇵🇪
+Soy **Full-Stack Developer** y estudiante de **Ingeniería de Sistemas** 🇵🇪
 
 - 🔭 Trabajando en proyectos freelance Full-Stack y mi portafolio web interactivo
 - 🌱 Profundizando en **arquitecturas escalables**, Next.js y .NET Core
 - 👯 Buscando colaborar en aplicaciones web de alto rendimiento
 - 💬 Pregúntame sobre React, .NET, TypeScript, SQL y Clean Code
 - 📫 Contacto: **anghelovy@outlook.com**
-- ⚡ Dato curioso: soy zurdo, toco guitarra (Rock/Metal) y siempre codeo con música de fondo
+- ⚡ Dato curioso: toco guitarra (Rock/Metal) y siempre codeo con música de fondo
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LOHAN2000&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E5E5E5&icon_color=B5B5B5&text_color=A5A5A5" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LOHAN2000&show_icons=true&theme=dark&hide_border=false&border_color=B71C1C&bg_color=0A0A0A&title_color=FF1E1E&icon_color=B71C1C&text_color=D9D9D9" width="100%"/>
 
 </td>
 </tr>
@@ -68,12 +64,16 @@ Soy **Full-Stack Developer** y estudiante de **Ingeniería de Sistemas** en Huan
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LOHAN2000&theme=dark&hide_border=true&background=0D1117&stroke=2D2D2D&ring=E5E5E5&fire=E5E5E5&currStreakLabel=E5E5E5" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOHAN2000&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E5E5E5&text_color=A5A5A5&langs_count=6" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LOHAN2000&theme=dracula&no-frame=true&column=4&margin-w=8&margin-h=8" width="97%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LOHAN2000&theme=github-compact&hide_border=true&bg_color=0D1117&color=E5E5E5&line=A5A5A5&point=FFFFFF" width="97%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOHAN2000&layout=compact&theme=dark&hide_border=false&border_color=B71C1C&bg_color=0A0A0A&title_color=FF1E1E&text_color=D9D9D9&langs_count=6" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LOHAN2000&theme=dark&hide_border=false&border_color=B71C1C&bg_color=0A0A0A&title_color=FF1E1E&text_color=D9D9D9&layout=compact" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LOHAN2000&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=FF1E1E&line=B71C1C&point=FFFFFF&area=true&area_color=4A0000" width="97%"/>
 
 </div>
 
@@ -83,24 +83,24 @@ Soy **Full-Stack Developer** y estudiante de **Ingeniería de Sistemas** en Huan
 
 <div align="center">
 
-<a href="(https://portfolio-av-lsmm.onrender.com/)" target="_blank">
-  <img src="https://img.shields.io/badge/Portafolio-1F1F1F?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+<a href="https://portfolio-av-lsmm.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FF1E1E" alt="portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/anjhelo-vela/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF1E1E" alt="linkedin"/>
 </a>
 <a href="https://x.com/LOHANRL" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/>
+  <img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=FF1E1E" alt="x"/>
 </a>
 <a href="https://www.instagram.com/l0h4n_20/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF1E1E" alt="instagram"/>
 </a>
 <a href="mailto:anghelovy@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email"/>
+  <img src="https://img.shields.io/badge/Outlook-0A0A0A?style=for-the-badge&logo=microsoftoutlook&logoColor=FF1E1E" alt="email"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:0F0F0F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,50:4A0000,100:0A0A0A&height=100&section=footer" width="100%"/>
