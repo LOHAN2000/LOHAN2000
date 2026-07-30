@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:4A0000,100:B71C1C&height=220&section=header&text=Anjhelo%20Vela&fontSize=52&fontColor=FF1E1E&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineering%20Student&descAlignY=58&descSize=18&descColor=D9D9D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:4A0000,100:B71C1C&height=220&section=header&text=Anjhelo%20Vela&fontSize=52&fontColor=FF1E1E&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineering&descAlignY=58&descSize=18&descColor=D9D9D9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=FF1E1E&center=true&vCenter=true&width=650&lines=Construyendo+arquitecturas+escalables;React+%2B+Next.js+%2B+.NET+Core;Clean+Code+%7C+SOLID+%7C+Full-Stack;Siempre+con+m%C3%BAsica+de+fondo+%F0%9F%8E%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=FF1E1E&center=true&vCenter=true&width=650&lines=Construyendo+arquitecturas+escalables;React+%2B+Next.js+%2B+.NET+Core;Clean+Code+%7C+SOLID+%7C+Full-Stack;Amante+de+la+m%C3%BAsica+%F0%9F%8E%B8" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 Soy **Full-Stack Developer** y estudiante de **Ingeniería de Sistemas** 🇵🇪
 
@@ -23,12 +23,12 @@ Soy **Full-Stack Developer** y estudiante de **Ingeniería de Sistemas** 🇵�
 - 👯 Buscando colaborar en aplicaciones web de alto rendimiento
 - 💬 Pregúntame sobre React, .NET, TypeScript, SQL y Clean Code
 - 📫 Contacto: **anghelovy@outlook.com**
-- ⚡ Dato curioso: toco guitarra (Rock/Metal) y siempre codeo con música de fondo
+- ⚡ Dato curioso: toco guitarra. Amante de la música
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LOHAN2000&show_icons=true&theme=dark&hide_border=false&border_color=B71C1C&bg_color=0A0A0A&title_color=FF1E1E&icon_color=B71C1C&text_color=D9D9D9" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LOHAN2000&theme=github_dark&bg_color=0A0A0A&title_color=FF1E1E&text_color=D9D9D9&border_color=B71C1C&icon_color=B71C1C&animation=rgb-soft" width="100%"/>
 
 </td>
 </tr>
@@ -68,8 +68,9 @@ Soy **Full-Stack Developer** y estudiante de **Ingeniería de Sistemas** 🇵�
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOHAN2000&layout=compact&theme=dark&hide_border=false&border_color=B71C1C&bg_color=0A0A0A&title_color=FF1E1E&text_color=D9D9D9&langs_count=6" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LOHAN2000&theme=dark&hide_border=false&border_color=B71C1C&bg_color=0A0A0A&title_color=FF1E1E&text_color=D9D9D9&layout=compact" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LOHAN2000&theme=github_dark&bg_color=0A0A0A&title_color=FF1E1E&text_color=D9D9D9&border_color=B71C1C&icon_color=B71C1C&chart_color=FF1E1E&animation=rgb-soft" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LOHAN2000&theme=github_dark&bg_color=0A0A0A&title_color=FF1E1E&text_color=D9D9D9&border_color=B71C1C&chart_color=FF1E1E&animation=rgb-soft" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LOHAN2000&theme=github_dark&bg_color=0A0A0A&title_color=FF1E1E&text_color=D9D9D9&border_color=B71C1C&chart_color=FF1E1E&animation=rgb-soft" width="32%"/>
 
 <br/><br/>
 
