@@ -16,14 +16,13 @@
 <tr>
 <td width="55%" valign="top">
 
-Soy **Full-Stack Developer** y estudiante de **Ingeniería de Sistemas** 🇵🇪
+Soy **Full-Stack Developer** (+5 años exp.), graduado de 4Geeks Academy (Beca ProInnóvate) y estudiante de **Ingeniería de Sistemas** (9º ciclo) 🇵🇪
 
-- 🔭 Trabajando en proyectos freelance Full-Stack y mi portafolio web interactivo
-- 🌱 Profundizando en **arquitecturas escalables**, Next.js y .NET Core
-- 👯 Buscando colaborar en aplicaciones web de alto rendimiento
-- 💬 Pregúntame sobre React, .NET, TypeScript, SQL y Clean Code
-- 📫 Contacto: **anghelovy@outlook.com**
-- ⚡ Dato curioso: toco guitarra. Amante de la música
+- 🔭 Actualmente construyendo: **Soluciones empresariales (Sistemas POS)** 
+- 🌱 Profundizando en: **Arquitecturas escalables, .NET 8 e integraciones con IA (Gemini API)**.
+- 👯 Buscando colaborar en: **Aplicaciones web de alto rendimiento y proyectos Open Source**.
+- 💬 Pregúntame sobre: **React, .NET, TypeScript, SQL, POO y Clean Code**.
+- 📫 Contacto: **anghelovy@outlook.com** | [LinkedIn](https://www.linkedin.com/in/anjhelo-vela)
 
 </td>
 <td width="45%" valign="top" align="center">
